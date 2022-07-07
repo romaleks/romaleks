@@ -23,6 +23,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats" />
+[[!Romaleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [course]: https://www.theodinproject.com/
