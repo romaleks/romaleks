@@ -1,6 +1,6 @@
 # Hi there, I'm Alex - aka [romaleks] 👋 
 
-## I'm a Student, Developer, and Video Gamer!
+## I'm a Student, Video Gamer and Web Developer!
 
 - 🔭 I'm currently self-studying [The Odin Project][course] full-stack JS Course!
 - 🌱 I’m currently learning web development
@@ -20,9 +20,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
 
+
 ---
 
-<img align="left" alt="romalex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+[!Romaleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [course]: https://www.theodinproject.com/
