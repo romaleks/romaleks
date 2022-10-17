@@ -18,8 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=algolia&locale=en" alt="romaleks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=algolia" alt="romaleks" /></p>
-
-[course]: https://www.theodinproject.com/ -->
+ -->
 
 <img src="./header.png" />
 
@@ -28,13 +27,13 @@
   <div align="justify">
     <strong>
       <h3 align="center">I'm a Student, Video Gamer and Web Developer!</h3>
-      - 🔭 I'm currently self-studying [The Odin Project][course] full-stack JS Course!
-      - 🌱 I’m currently learning **JavaScript**
-      - 🥅 2022 Goals: Finish the TOP curriculum and find a cool job!
-      - ⚡ Fun fact: I love watching twitch and playing computer games
     </strong>
-
   </div>
+
+- 🔭 I'm currently self-studying [The Odin Project][course] full-stack JS Course!
+- 🌱 I’m currently learning **JavaScript**
+- 🥅 2022 Goals: Finish the TOP curriculum and find a cool job!
+- ⚡ Fun fact: I love watching twitch and playing computer games
 
 # 🔧 Technologies & Tools
 
@@ -121,6 +120,8 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=algolia&locale=en" alt="romaleks" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=algolia" alt="romaleks" /></p>
+
+[course]: https://www.theodinproject.com/
 
 <!--
 Here are some ideas to get you started:
