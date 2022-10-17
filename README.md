@@ -23,20 +23,22 @@
 
 <img src="./header.png" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alex!
 
   <div align="justify">
     <strong>
-      My name is Khunhour and I'm a Front-End developer from Cambodia, currently living in Japan.
-      I am eager to learn new things, and experience different kinds of technologies in the Web Development world.
-      Right now, I'm learning Javascript Front-End & Back-End in order to become a Full-Stack developer (MERN stack).
-      Happy coding! 👨‍💻
+      <h3 align="center">I'm a Student, Video Gamer and Web Developer!</h3>
+      - 🔭 I'm currently self-studying [The Odin Project][course] full-stack JS Course!
+      - 🌱 I’m currently learning **JavaScript**
+      - 🥅 2022 Goals: Finish the TOP curriculum and find a cool job!
+      - ⚡ Fun fact: I love watching twitch and playing computer games
     </strong>
+
   </div>
 
 # 🔧 Technologies & Tools
 
-<table>
+<table di>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -116,16 +118,11 @@
 </table>
   
   # 📈 Stats
-   <img
-   src="https://github-readme-stats.vercel.app/api?username=khunhour&show_icons=true&theme=radical"
-  /></br>
-  <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=khunhour&theme=radical&layout=compact"
-  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=algolia&locale=en" alt="romaleks" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=algolia" alt="romaleks" /></p>
 
 <!--
-**khunhour/khunhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
