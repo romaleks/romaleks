@@ -26,18 +26,18 @@
 
   <div align="justify">
     <strong>
-      <h3 align="center">I'm a Student, Video Gamer and Web Developer!</h3>
+      <h3>I'm a Student, Video Gamer and Web Developer!</h3>
     </strong>
   </div>
 
 - 🔭 I'm currently self-studying [The Odin Project][course] full-stack JS Course!
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React Framework**
 - 🥅 2022 Goals: Finish the TOP curriculum and find a cool job!
 - ⚡ Fun fact: I love watching twitch and playing computer games
 
 # 🔧 Technologies & Tools
 
-<table di>
+<table align="center">
   <tr>
     <td align="center" height="108" width="108">
       <img
