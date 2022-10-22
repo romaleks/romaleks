@@ -51,6 +51,15 @@
       />
       <br /><strong>React</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -91,29 +100,20 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="VSCode"
       />
-      <br /><strong>Webpack</strong>
+      <br /><strong>VS Code</strong>
     </td>
   </tr>
 </table>
   
   # 📈 Stats
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=prussian&locale=en" alt="romaleks" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=github_dark&locale=en" alt="romaleks" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=prussian" alt="romaleks" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=github_dark" alt="romaleks" /></p>
 
 [course]: https://www.theodinproject.com/
 
