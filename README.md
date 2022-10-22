@@ -111,9 +111,9 @@
 </table>
   
   # 📈 Stats
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=react&locale=en" alt="romaleks" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaleks&show_icons=true&theme=react&hide_border=true&locale=en" alt="romaleks" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=react" alt="romaleks" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaleks&theme=react&hide_border=true" alt="romaleks" /></p>
 
 [course]: https://www.theodinproject.com/
 
