@@ -58,7 +58,7 @@
         height="48"
         alt="Redux Toolkit"
       />
-      <br /><strong>Redux Toolkit</strong>
+      <br /><strong style='font-size: 10px'>Redux Toolkit</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
