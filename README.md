@@ -56,9 +56,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
         height="48"
-        alt="Redux Toolkit"
+        alt="Redux"
       />
-      <br /><strong style='font-size: 10px;'>Redux Toolkit</strong>
+      <br /><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
