@@ -56,18 +56,18 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Redux Toolkit"
       />
-      <br /><strong>React</strong>
+      <br /><strong>Redux Toolkit</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
-        alt="Sass"
+        alt="Tailwind CSS"
       />
-      <br /><strong>Sass</strong>
+      <br /><strong>Tailwind CSS</strong>
     </td>
   </tr>
   <tr>
@@ -112,9 +112,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="48"
         height="48"
-        alt="VSCode"
+        alt="Sass"
       />
-      <br /><strong>VS Code</strong>
+      <br /><strong>Sass</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
