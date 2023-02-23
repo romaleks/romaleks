@@ -19,6 +19,7 @@
   <a href="https://github.com/romaleks/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/romaleks-profile-views"/></a>
 </p>
+
 # 🔧 Technologies & Tools
 
 <table>
