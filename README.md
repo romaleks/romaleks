@@ -11,6 +11,8 @@
 - 🥅 2022 Goals: Finish the TOP curriculum and find a cool job!
 - ⚡ Fun fact: I love watching twitch and playing computer games
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=romaleks&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
 # 🔧 Technologies & Tools
 
 <table>
