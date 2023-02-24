@@ -7,7 +7,7 @@
   </div>
 
 - 🔭 I'm currently self-studying [The Odin Project][course] full-stack JS Course!
-- 🌱 I’m currently learning **Next.js**
+- 🧠 I’m currently learning **Next.js**
 - 🥅 2023 Goals: Finish the TOP curriculum and find a cool job!
 - ⚡ Fun fact: I love watching twitch and playing computer games
 
@@ -16,7 +16,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/romaleks?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/romaleks?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/romaleks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a><img src="https://komarev.com/ghpvc/?username=romaleks&label=Profile%20views&color=ce4630&style=for-the-badge" alt="romaleks" /></a>
+  <a><img src="https://komarev.com/ghpvc/?username=romaleks&label=Profile%20views&color=e05d44&labelColor=ce4630&style=for-the-badge" alt="romaleks" /></a>
 </p>
 
 # 🔧 Technologies & Tools
